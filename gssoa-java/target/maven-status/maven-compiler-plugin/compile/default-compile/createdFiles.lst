@@ -1,0 +1,4 @@
+com\gssoa\controller\BairroController.class
+com\gssoa\GssoaApplication.class
+com\gssoa\repository\BairroRepository.class
+com\gssoa\model\Bairro.class
